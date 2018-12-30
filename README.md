@@ -1,2 +1,2 @@
 # dontfucktheworld
-repository stuff
+Learning this cool github stuff!
